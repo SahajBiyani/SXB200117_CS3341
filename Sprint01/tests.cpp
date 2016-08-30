@@ -2,7 +2,7 @@
 #include "catch.hpp"
 
 #include <cstring>
-#include "string.h"
+#include "DSString.h"
 
 
 TEST_CASE("String class", "[string]"){
