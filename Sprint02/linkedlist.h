@@ -5,6 +5,7 @@ template <class T>
 class ListNode {
 public:
 
+//Add functionality here to provide access to the ListNode Object. 
 
 private:
     ListNode<T>*next;
