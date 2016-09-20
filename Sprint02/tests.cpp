@@ -7,43 +7,43 @@
 
 TEST_CASE("LinkedList class", "[LinkedList]"){
 
-    Section("Default constructor"){
+    SECTION("Default constructor"){
 
     }
 
-    Section("Constructor with head"){
+    SECTION("Constructor with head"){
 
     }
 
-    Section("Copy constructor"){
+    SECTION("Copy constructor"){
 
     }
 
-    Section("add"){
+    SECTION("add"){
 
     }
 
-    Section("addToFront"){
+    SECTION("addToFront"){
 
     }
 
-    Section("get"){
+    SECTION("get"){
 
     }
 
-    Section("size"){
+    SECTION("size"){
 
     }
 
-    Section("remove"){
+    SECTION("remove"){
 
     }
 
-    Section("[] operator"){
+    SECTION("[] operator"){
 
     }
 
-    Section("assignment operator"){
+    SECTION("assignment operator"){
 
     }
 
@@ -52,15 +52,15 @@ TEST_CASE("LinkedList class", "[LinkedList]"){
 
 TEST_CASE("Stack class", "[stack]"){
 
-    Section("Push"){
+    SECTION("Push"){
 
     }
 
-    Section("Pop"){
+    SECTION("Pop"){
 
     }
 
-    Section("Peek"){
+    SECTION("Peek"){
 
     }
 
@@ -68,15 +68,15 @@ TEST_CASE("Stack class", "[stack]"){
 
 TEST_CASE("Queue class", "[queue]"){
 
-    Section("Enqueue"){
+    SECTION("Enqueue"){
 
     }
 
-    Section("Dequeue"){
+    SECTION("Dequeue"){
 
     }
 
-    Section("Peek"){
+    SECTION("Peek"){
 
     }
 
