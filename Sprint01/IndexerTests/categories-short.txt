@@ -1,0 +1,3 @@
+[category]
+words = phrases text
+Lorem = consectetur elit

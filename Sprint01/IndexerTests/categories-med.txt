@@ -1,0 +1,6 @@
+[category]
+Quixote = Don knight
+Sancho = Panza squire friend
+Rocinante = steed horse
+giants = windmills mill millstone beings
+battle = slay warfare adventures

@@ -1,4 +1,4 @@
-9
+12
 Corpus Christi|Houston|56|20
 Houston|Austin|91|40
 Chicago|Corpus Christi|239|198
