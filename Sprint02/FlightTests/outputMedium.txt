@@ -20,7 +20,7 @@ Path 3: New York -> Chicago -> Dallas -> Seattle. Time: 355 Cost: 421.00
 
 Flight 5: Seattle, Houston (Time)
 Path 1: Seattle -> Dallas -> Houston. Time: 192 Cost: 220.00
-Path 2: Seattle -> Dallas -> Austin -> Houston. Time: 218 Cost: 335.00
+Path 2: Seattle -> Dallas -> Austin -> Houston. Time: 218 Cost: 328.00
 Path 3: Seattle -> Dallas -> Chicago -> Houston. Time: 352 Cost: 356.00
 
 Flight 6: San Fransisco, Las Vegas (Cost)
