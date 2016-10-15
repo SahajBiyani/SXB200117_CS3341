@@ -1,5 +1,6 @@
 #The Sorting Competition
 Sprint 3 - CSE 2341 - Fall 2016
+Due: October 24, 2016 at 6:00AM
 
 ## Introduction
 In this sprint you will develop a program that can sort a list of words from a text file.  The words must be sorted according to the following conditions:
