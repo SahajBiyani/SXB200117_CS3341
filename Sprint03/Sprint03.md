@@ -31,24 +31,6 @@ The spirit behind these stipulations is to prevent the use of any standard libra
 
 + You may work independently OR in teams of no more than two students. NO EXCEPTIONS, so PLEASE DON'T ASK
 
-## Prizes
-The First Place winner(s) can choose one of the following options as prizes:
-
-+ Raise a programming project grade to a perfect score as long as a reasonable attempt was made on the assignment you wish to apply this to.  (Note: this is not the same as allowing you to skip a programming project). This does NOT apply to the final project.
-+ Drop a homework grade.
-+ 3 points added to your SEMESTER AVERAGE (yes, that's right.... your semester average)!!
-+ Free dinner with Fontenot and some of the TAs (Fontenot gets veto power over restaurant).
-
-The Second Place winner(s) can choose one of the following options as prizes:
-
-+ Drop a homework grade.
-+ Add 20 points to a programming project final grade (not including the final project).
-+ Free Pokey-O's or FroYo (or some other kind of dessert) with Fontenot and some of the TAs
-
-The Third Place winner(s) will get the following:
-
-+ 10 points added to either a homework grade OR programming assignment of their choice.
-
 ## Writing the Sorter
 
 Your sorting program must accept two command line arguments, one with the name of the input file of words, and the other with the name of the output file of sorted words:
@@ -94,7 +76,6 @@ zebras
 applied
 ```
 
-
 ## Things that will get you disqualified
 These things will get you disqualified from the competition:
 
@@ -102,6 +83,20 @@ These things will get you disqualified from the competition:
 + attempting to hack the timing mechanism in some/any way
 + other sketchy things that violate the spirit of the exercise (we'll be looking at your source code, ya know!)
 
+## Prizes
+The First Place winner(s) can choose one of the following options as prizes:
+
++ Add 50 points to a Sprint Packet grade.  (Note: this is not the same as allowing you to skip a programming project). This does NOT apply to the final project.
++ 3 points added to your SEMESTER AVERAGE (yes, that's right.... your semester average)!!
+
+The Second Place winner(s) can choose one of the following options as prizes:
+
++ Add 25 points to a Sprint Packet final grade (not including the final project).
++ 1.5 points added to your SEMESTER AVERAGE
+
+The Third Place winner(s) will get the following:
+
++ 10 points added to a Sprint Packet final grade (not including the final project). 
 
 ## Grading
 
