@@ -49,6 +49,14 @@ We will use an OS-level tool to measure the time it takes for the following comm
 ./sorter <InputFile> <OutputFile>
 ```
 
+You can test your own timing using the "time" command in the VM:
+
+```
+time ./sorter <InputFile> <OutputFile>
+```
+
+The output of this command will be three numbers. The one you care about is the "user" time.
+
 We will use a number of test datasets, varying in length from 10 elements to 10 million elements. For each dataset, the number of words we request will vary from 0% to 100% of the total words. (For example, for the 10 million word dataset, we may request  50 words, or we may request 9 million -- so your code should be prepared to do either in an optimal time).
 
 ## Example Input File
@@ -96,7 +104,7 @@ The Second Place winner(s) can choose one of the following options as prizes:
 
 The Third Place winner(s) will get the following:
 
-+ 10 points added to a Sprint Packet final grade (not including the final project). 
++ 10 points added to a Sprint Packet final grade (not including the final project).
 
 ## Grading
 
