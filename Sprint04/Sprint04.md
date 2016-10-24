@@ -59,27 +59,21 @@ There will be one output file.  For each query in the 2nd input file:
 - print the query exactly as it appears in the input file 
 - print all pages/articles that satisfy the query in order by ID number.  For each article, print in the following format:
   - id|article title|URL
- 
-
-
-  - Maybe some extra features for extra credit? 
-    - Hash table?
-    - Compare performance of basic binary search tree to AVL tree?
 
 ## Submission
-You must push your work to GitHub by the due date. Your git repository must contain all of your code, design documents, and test cases.
+You must push your work to GitHub by the due date.  Please copy any classes from previous sprints into your current sprint 4 folder when you're working on your project.  Your git repository must contain all of your code, design documents, and test cases.
 
 ## Grading
 Your project will be graded by one of the TAs for the course.  They've all taken the course, performed well, and understand the expectations of Professor Fontenot.  
 
-|Outcome                  		 	  | Points    | Points Earned |
-|:------------------------			  |:----------:|---------------|
-|Design of AVLTree Classes      	| 20        |               |
-|AVLTree Class Tests     			    | 20        |               |
+|Outcome                  		 	    | Points    | Points Earned |
+|:------------------------			     |:----------:|---------------|
+|Design of AVLTree Classes        | 20        |               |
+|AVLTree Class Tests     			      | 10        |               |
 |Boolean Query Processor          | 20        |               |   
 |Design of Mini Search Engine     | 30        |               |
-|Source Code Quality    			    | 30        |               |
+|Source Code Quality    			       | 30        |               |
 |Mini Search Engine Functionality | 40        |               |
 
 **Please note that if any memory leaks exist in any of your classes, you will lose up to 30 points per data structure.**
-**Implementations which do not resemble an actual hash table or AVL tree will earn a grade of 0.**
+**Implementations which do not resemble an actual AVL tree will earn a grade of 0.**
