@@ -43,10 +43,11 @@ Your interface to your search engine will be a very basic boolean query processo
 If the operator is AND, all query terms must be present in a page/article for it to be returned.  If the operator is OR, any one of the query terms must be present in a page/article for it to be returned.  If the NOT operator is present, you should remove any articles from the resultset that contain that word.  
  
 ### Input File
-There will be two input files.  
+There will be three input files.  
 
 1) The corpus of documents.  For an example of this input file, see small.xml in TestData folder.
 2) A query file with an integer on the first line representing the number of queries in the file. 
+3) A list of stop words, all in lower case, delimited by a line break.
 
 Example Query:
 
@@ -59,6 +60,13 @@ There will be one output file.  For each query in the 2nd input file:
 - print the query exactly as it appears in the input file 
 - print all pages/articles that satisfy the query in order by ID number.  For each article, print in the following format:
   - id|article title|URL
+  
+### Command Line Arguments
+Your code will be run as follows:
+
+```
+./a.out <corpusFileName> <queriesFileName> <stopWordsFileName> <outputFileName>
+```
 
 ## Submission
 You must push your work to GitHub by the due date.  Please copy any classes from previous sprints into your current sprint 4 folder when you're working on your project.  Your git repository must contain all of your code, design documents, and test cases.
