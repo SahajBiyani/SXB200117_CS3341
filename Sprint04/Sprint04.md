@@ -85,3 +85,15 @@ Your project will be graded by one of the TAs for the course.  They've all taken
 
 **Please note that if any memory leaks exist in any of your classes, you will lose up to 30 points per data structure.**
 **Implementations which do not resemble an actual AVL tree will earn a grade of 0.**
+
+## Extra Credit Opportunity
+
+There is one opportunity for extra credit and you can earn an additional 15 points. 
+
+### Overview
+
+Incorporate a pre-implemented stemmer into your project.  Stemming removes any transforamtions to a word so that multiple versions of the same word can be indexed together.  For example run, running, and runs would stem to run.  Therefore, any page with any of those 4 words would all be indexed with just the word run.  
+
+### Implementation
+
+You don't have to implement a stemmer from scratch; you may use an already-implemented version from the internet and incorporate it into your code base.  See https://tartarus.org/martin/PorterStemmer/ for a number of stemmer implementations in various languages.  
